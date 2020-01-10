@@ -1,6 +1,6 @@
 {
-  "name": "smoking-robots",
-  "homepage": "https://github.com/Ronchito13/Smoky-Robots/",
+  "name": "robots",
+  "homepage": "https://github.com/Ronchito13/robots/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

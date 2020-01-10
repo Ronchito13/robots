@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ronchito13/robots/static/css/main.7fad2709.chunk.css",
+    "main.js": "/Ronchito13/robots/static/js/main.2c61fd38.chunk.js",
+    "main.js.map": "/Ronchito13/robots/static/js/main.2c61fd38.chunk.js.map",
+    "runtime-main.js": "/Ronchito13/robots/static/js/runtime-main.60d2fc91.js",
+    "runtime-main.js.map": "/Ronchito13/robots/static/js/runtime-main.60d2fc91.js.map",
+    "static/js/2.548194fd.chunk.js": "/Ronchito13/robots/static/js/2.548194fd.chunk.js",
+    "static/js/2.548194fd.chunk.js.map": "/Ronchito13/robots/static/js/2.548194fd.chunk.js.map",
+    "index.html": "/Ronchito13/robots/index.html",
+    "precache-manifest.3c7d2c0f3943ccf7520ca2ba78840fa1.js": "/Ronchito13/robots/precache-manifest.3c7d2c0f3943ccf7520ca2ba78840fa1.js",
+    "service-worker.js": "/Ronchito13/robots/service-worker.js",
+    "static/css/main.7fad2709.chunk.css.map": "/Ronchito13/robots/static/css/main.7fad2709.chunk.css.map",
+    "static/js/2.548194fd.chunk.js.LICENSE": "/Ronchito13/robots/static/js/2.548194fd.chunk.js.LICENSE",
+    "static/media/app.css": "/Ronchito13/robots/static/media/SEGA.82e09f78.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d2fc91.js",
+    "static/js/2.548194fd.chunk.js",
+    "static/css/main.7fad2709.chunk.css",
+    "static/js/main.2c61fd38.chunk.js"
+  ]
+}
